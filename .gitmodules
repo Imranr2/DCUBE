@@ -1,0 +1,6 @@
+[submodule "DCUBE_FRONT_END"]
+	path = DCUBE_FRONT_END
+	url = https://github.com/Imranr2/DCUBE_FRONT_END
+[submodule "DCUBE_API"]
+	path = DCUBE_API
+	url = https://github.com/Imranr2/DCUBE_API
